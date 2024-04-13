@@ -10,7 +10,7 @@ The project encompasses a sophisticated home network infrastructure integrated w
 - Software used: [pfSense](https://www.pfsense.org/), [Ubuntu Server](https://ubuntu.com/download/server), [Docker](https://ubuntu.com/download/server), [WireGuard](https://www.wireguard.com/), [NGINX Reverse Proxy](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/)
 - Services: [Portainer](https://www.portainer.io/), [BitWarden](https://bitwarden.com/), [Pi-Hole](https://pi-hole.net/), [Orbital-Sync](https://github.com/mattwebbio/orbital-sync), [GitLab](https://about.gitlab.com/install/), [TrueNAS](https://www.truenas.com/), [VSCode-Server](https://github.com/coder/code-server), [NextCloud](https://nextcloud.com/install/), [Brave-Sync](https://github.com/brave/go-sync), [Apache Guacamole](https://guacamole.apache.org/)
 
-#### If you'd like to chat or collaborate, please reach me at [friend@nyvia-projects.com](mailto:friend@nyvia-projects.com)
+#### If you'd like to chat or collaborate, please reach me at [info@nyviaprojects.com](mailto:info@nyviaprojects.com)
 
 Projects can be tracked [here](https://github.com/users/nyvia-projects/projects/1).
 
